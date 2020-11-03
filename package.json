@@ -1,0 +1,20 @@
+{
+    "name": "@mbvue/browserslist-config",
+    "version": "0.0.1",
+    "description": "browserslist config",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mbvue/browserslist-config.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mbvue/browserslist-config/issues"
+    },
+    "homepage": "https://github.com/mbvue/browserslist-config#readme",
+    "keywords": [
+        "browserslist config",
+        "mbvue"
+    ],
+    "author": "hwq <17031989083@qq.com>",
+    "license": "MIT"
+}
